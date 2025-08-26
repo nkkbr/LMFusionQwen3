@@ -1,0 +1,7 @@
+__pycache__/
+initial_weight/
+*init_weight/
+lmfusion_qwen3_pretrain*/
+wandb/
+checkpoints/
+script/*.log
